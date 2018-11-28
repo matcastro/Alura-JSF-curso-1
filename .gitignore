@@ -1,0 +1,8 @@
+/.metadata/
+.recommenders/
+*.classpath
+*.project
+jsf-livraria/.metadata/
+jsf-livraria/.settings/
+Servers/
+*.jar
