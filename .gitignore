@@ -6,3 +6,7 @@ jsf-livraria/.metadata/
 jsf-livraria/.settings/
 Servers/
 *.jar
+livraria/.metadata/
+livraria/.settings/
+*.class
+*.DS_Store
